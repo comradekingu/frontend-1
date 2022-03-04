@@ -121,5 +121,6 @@
     "screenshot": "Screenshot",
     "donate": "Donate",
     "other-apps-by-developer": "Other apps by {{developer}}",
-    "loading": "Loading..."
+    "loading": "Loading...",
+    "manifest": "Manifest"
 }
